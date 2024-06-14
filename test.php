@@ -1,4 +1,3 @@
 <?php
-echo "aapjes";
-echo "ballsack";
+echo "ik stink";
 ?>
